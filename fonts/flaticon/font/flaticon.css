@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 07/10/2019 05:43
+  	Creation date: 06/12/2019 06:20
   	*/
 
 @font-face {
@@ -25,19 +25,12 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
 }
 
-.flaticon-debt:before { content: "\f100"; }
-.flaticon-growth:before { content: "\f101"; }
-.flaticon-business-plan:before { content: "\f102"; }
-.flaticon-location:before { content: "\f103"; }
-.flaticon-project-management:before { content: "\f104"; }
-.flaticon-goal:before { content: "\f105"; }
+.flaticon-soviet:before { content: "\f100"; }
+.flaticon-hammer:before { content: "\f101"; }
+.flaticon-mao:before { content: "\f102"; }
+.flaticon-soviet-union:before { content: "\f103"; }
